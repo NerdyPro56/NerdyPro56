@@ -1,6 +1,5 @@
-## Hello! 你好！こんにちわ！
-ฅ^•ﻌ•^ฅ
-
+## Hello! 你好！こんにちわ！ฅ^•ﻌ•^ฅ
+![6d3571ac3190e24b3f6c023a80a57c10](https://github.com/user-attachments/assets/fca4669e-6aa9-4b87-992d-678b2ecb017a)
 - 🔭 I’m currently working on robotics and web design
 - 🌱 I’m currently learning the meaning of life
 - 👯 I’m looking to collaborate on stuff
