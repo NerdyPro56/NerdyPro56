@@ -1,4 +1,5 @@
 ## Hello! ฅ^•ﻌ•^ฅ
+
 ```C
 #include <stdio.h>
 
@@ -16,6 +17,9 @@ int main() {
     return 0;
 }
 ```
+
+<img src="https://archlinux.org/static/favicon.png" style="width: 30px; height: auto;" alt="i use arch btw"> <subtext>i use arch btw</subtext>
+
 <img width="500" height="270" alt="if you see this instead of a gif, let me know" src="https://github.com/user-attachments/assets/e30f35ea-32cc-464b-b943-c55975fdd523" />
 
 - I’m currently working on robotics, web design, cybersecurity, and game design
